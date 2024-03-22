@@ -12,6 +12,7 @@
                
        <span class="  text-indigo-200">gyamfijohn08@gmail.com</span>
                 </div>
+                
                 <!-- icon view end -->
 
    <!-- icon view start -->

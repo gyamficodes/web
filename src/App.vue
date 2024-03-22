@@ -152,7 +152,7 @@
                   <a href="mailto:gyamfijohn08@gmail.com"><span class="text-white">Hire Me</span></a>
                 </div>
                 <div class="py-2 px-6 w-[100%] sm:w-[180px] flex-items-full-center border-[1px] border-white rounded-lg cursor-pointer  hover:bg-tona-blue hover:border-tona-blue">
-                 <a href="/public/GyamfiJohnResume.pdf" download="GyamfiJohnResume.pdf" > <span class="text-white ">Download CV</span></a>
+                 <a href="/public/gyamfiresume.pdf" download="gyamfiresume.pdf" > <span class="text-white ">Download CV</span></a>
                 </div>
               </div>
 
@@ -343,7 +343,7 @@
                  <!-- fennel -->
                  <div class="flex   lg:flex-row  flex-col gap-3 ">
                     <div class=" lg:w-[20%]">
-                      <h1 class="w-full text-[#fff] ">Sep 2023 - Feb 2024</h1>
+                      <h1 class="w-full text-[#fff] ">Sep 2022 - Feb 2024</h1>
                     </div>
                       <div class="flex-1">
                      <h1 class="text text-[#fff] mb-2">FennelSoft - Frontend Developer</h1>
@@ -366,7 +366,7 @@
              <!-- anz -->
              <div class="flex   lg:flex-row  flex-col gap-3  mt-5">
                     <div class=" lg:w-[20%]">
-                      <h1 class="w-full text-[#fff] ">Nov 2022 - Aug 2023</h1>
+                      <h1 class="w-full text-[#fff] ">Nov 2021 - Aug 2022</h1>
                     </div>
                       <div class="flex-1">
                      <h1 class="text text-[#fff] mb-2">Eziteck Solution - Frontend Developer</h1>
@@ -391,7 +391,7 @@
                  <!-- anz -->
                  <div class="flex   lg:flex-row  flex-col gap-3  mt-5">
                     <div class=" lg:w-[20%]">
-                      <h1 class="w-full text-[#fff] ">Jan 2021 - Sep 2022</h1>
+                      <h1 class="w-full text-[#fff] ">Jan 2020 - Sep 2021</h1>
                     </div>
                       <div class="flex-1">
                      <h1 class="text text-[#fff] mb-2">HardworkingTech - Frontend Developer</h1>
